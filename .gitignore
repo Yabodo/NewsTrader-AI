@@ -1,0 +1,46 @@
+# Environment variables
+.env
+# Python
+_pycache__/
+.py[cod]
+$py.class
+.so
+Python
+uild/
+evelop-eggs/
+ist/
+ownloads/
+ggs/
+eggs/
+ib/
+ib64/
+arts/
+dist/
+ar/
+heels/
+.egg-info/
+installed.cfg
+.egg
+# Virtual Environment
+env/
+nv/
+NV/
+venv/
+env/
+python-version
+# IDE specific files
+idea/
+vscode/
+.swp
+.swo
+DS_Store
+vs/
+# Logs
+.log
+ogs/
+og/
+# Jupyter Notebook
+ipynb_checkpoints
+# Local development
+.db
+.sqlite3
